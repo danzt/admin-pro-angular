@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dvmApp"
+    }
+  },
+  "defaultProject": "dvmApp",
+  "cli": {
+    "analytics": false
+  }
 }
